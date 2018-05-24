@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180346551450",
+    "firebase_url": "https://hocandroid-c3fd0.firebaseio.com",
+    "project_id": "hocandroid-c3fd0",
+    "storage_bucket": "hocandroid-c3fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180346551450:android:35860c5b4f5b2938",
+        "android_client_info": {
+          "package_name": "com.example.hoxyu.bt_tygia_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180346551450-4i8plb85h8a5d98p9ao45qilroet4vus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hoxyu.bt_tygia_firebase",
+            "certificate_hash": "735366f751ea6aca978a52d85a48b14e910d033b"
+          }
+        },
+        {
+          "client_id": "180346551450-7um0eshils1lgo9lfvre8manntmb9pln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYC6URUK4qHZdZpOEaQzHJypuVYEGmGUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180346551450-7um0eshils1lgo9lfvre8manntmb9pln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
